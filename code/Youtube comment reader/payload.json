@@ -1,0 +1,122 @@
+{
+  "context": {
+    "client": {
+      "hl": "ru",
+      "gl": "RU",
+      "remoteHost": "",
+      "deviceMake": "",
+      "deviceModel": "",
+      "visitorData": "",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36,gzip(gfe)",
+      "clientName": "WEB",
+      "clientVersion": "2.20211014.05.00",
+      "osName": "Windows",
+      "osVersion": "10.0",
+      "originalUrl": "",
+      "platform": "DESKTOP",
+      "clientFormFactor": "UNKNOWN_FORM_FACTOR",
+      "configInfo": {
+        "appInstallData": "CKysrIsGEO_XrQUQsNStBRC3u_0SELfLrQUQktWtBRDCuf0SENi-rQUQkfj8Eg%3D%3D"
+      },
+      "timeZone": "Europe/Moscow",
+      "browserName": "Chrome",
+      "browserVersion": "94.0.4606.81",
+      "screenWidthPoints": 400,
+      "screenHeightPoints": 689,
+      "screenPixelDensity": 1,
+      "screenDensityFloat": 1,
+      "utcOffsetMinutes": 180,
+      "userInterfaceTheme": "USER_INTERFACE_THEME_LIGHT",
+      "connectionType": "CONN_CELLULAR_4G",
+      "mainAppWebInfo": {
+        "graftUrl": "",
+        "webDisplayMode": "WEB_DISPLAY_MODE_BROWSER",
+        "isWebNativeShareAvailable": true
+      }
+    },
+    "user": {
+      "lockedSafetyMode": false
+    },
+    "request": {
+      "useSsl": true,
+      "internalExperimentFlags": [],
+      "consistencyTokenJars": []
+    },
+    "adSignalsInfo": {
+      "params": [
+        {
+          "key": "dt",
+          "value": "1634407980469"
+        },
+        {
+          "key": "flash",
+          "value": "0"
+        },
+        {
+          "key": "frm",
+          "value": "1"
+        },
+        {
+          "key": "u_tz",
+          "value": "180"
+        },
+        {
+          "key": "u_his",
+          "value": "4"
+        },
+        {
+          "key": "u_h",
+          "value": "1080"
+        },
+        {
+          "key": "u_w",
+          "value": "1920"
+        },
+        {
+          "key": "u_ah",
+          "value": "1080"
+        },
+        {
+          "key": "u_aw",
+          "value": "1920"
+        },
+        {
+          "key": "u_cd",
+          "value": "24"
+        },
+        {
+          "key": "bc",
+          "value": "31"
+        },
+        {
+          "key": "bih",
+          "value": "975"
+        },
+        {
+          "key": "biw",
+          "value": "1904"
+        },
+        {
+          "key": "brdim",
+          "value": "0,0,0,0,1920,0,1920,1080,400,689"
+        },
+        {
+          "key": "vis",
+          "value": "2"
+        },
+        {
+          "key": "wgl",
+          "value": "true"
+        },
+        {
+          "key": "ca_type",
+          "value": "image"
+        }
+      ]
+    }
+  },
+  "continuation": "",
+  "webClientInfo": {
+    "isDocumentHidden": true
+  }
+}
